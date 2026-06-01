@@ -1,4 +1,3 @@
-# Ou chamar por código Python direto
 from dotenv import load_dotenv
 load_dotenv()
 
